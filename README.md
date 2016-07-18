@@ -2,6 +2,8 @@
 
 Mac QuickLook for ASE files (Adobe Swatch Exchange)
 
+ASE are color palettes that can be exported from Photoshop, Illustrator or [Spectrum](http://www.eigenlogik.com/spectrum/mac).
+
 Based on Apple's [QuickLookSketch](https://developer.apple.com/library/prerelease/content/samplecode/QuickLookSketch/Introduction/Intro.html).
 
 ASE format Reference: <http://www.selapa.net/swatches/colors/fileformats.php#adobe_ase>
