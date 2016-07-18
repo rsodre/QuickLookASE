@@ -28,4 +28,9 @@ mdls -name kMDItemContentType MySwatch.ase
 </pre>
 
 
+# How It Looks:
+
+![](https://raw.githubusercontent.com/rsodre/QuickLookASE/master/example2.png)
+
+![](https://raw.githubusercontent.com/rsodre/QuickLookASE/master/example1.png)
 
