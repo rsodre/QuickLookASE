@@ -21,7 +21,7 @@ cp -R QuickLookASE.qlgenerator ~/Library/QuickLook/
 Alternatively, if you use [Homebrew-Cask](https://github.com/caskroom/homebrew-cask), install with:
 
 <pre>
-brew cask install quiklookase
+brew cask install quicklookase
 </pre>
 
 # Notes
